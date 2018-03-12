@@ -1,4 +1,4 @@
-# Jeff Clavier & Andrea Zurek - Angelic Advice Part II
+# Jeff Clavier & Andrea Zurek -- Angelic Advice Part II
 
 [P.S. 本章翻译者尚未交稿，因此目前为机翻版本]
 

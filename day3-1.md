@@ -1,4 +1,4 @@
-# Elad Gil & Pejman Nozad - Angelic Advice Part I
+# Elad Gil & Pejman Nozad -- Angelic Advice Part I
 
 [P.S. 本章翻译者尚未交稿，因此目前为机翻版本]
 
