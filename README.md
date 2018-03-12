@@ -1,3 +1,7 @@
-# My Awesome Book
+# YC Startup Investor School
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+取自 https://investor.startupschool.org/
+
+本中文内容由 xdite 出资翻译。
+
+原版权属于 Y Combinator 所有
